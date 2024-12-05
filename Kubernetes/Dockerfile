@@ -1,4 +1,4 @@
-FROM tomcat:latest
+FROM tomcat:11.0.1-jdk21-temurin-noble
 
 MAINTAINER AR Shankar
 
